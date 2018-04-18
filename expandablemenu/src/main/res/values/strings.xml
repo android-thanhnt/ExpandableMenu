@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpandableMenuButton</string>
+    <string name="expandable_menu_behavior">com.onedollar.expandablemenu.ExpandableMenu$ExpandableMenuBehavior</string>
+</resources>

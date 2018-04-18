@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableMenu">
+        <attr name="menu_button_expand_icon_res" format="reference"/>
+        <attr name="menu_button_collapse_icon_res" format="reference"/>
+        <attr name="menu_button_background_res" format="reference"/>
+        <attr name="menu_button_size" format="dimension"/>
+
+        <attr name="menu_button_expand_rotation_degree" format="integer"/>
+        <attr name="menu_item_rotation_degree" format="integer"/>
+        <attr name="expand_duration" format="integer"/>
+        <attr name="collapse_duration" format="integer"/>
+        <attr name="delay_expanding_menu_item" format="integer"/>
+        <attr name="spacing_menu_item" format="dimension"/>
+
+        <attr name="collapse_on_item_selected" format="boolean"/>
+
+    </declare-styleable>
+</resources>
